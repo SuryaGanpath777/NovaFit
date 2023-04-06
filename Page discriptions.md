@@ -1,5 +1,4 @@
 # HOMEPAGE
-NOVAFIT
 
 HomePage
 The Landing page for Novafit from where you an access all the features.
@@ -7,6 +6,7 @@ The Landing page for Novafit from where you an access all the features.
 -HOME
 -About US
 -Classes
+
 -Blog
 -Contact US
 	We have the 
