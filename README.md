@@ -1,4 +1,4 @@
-# NovaFit
+# HOMEPAGE
 NOVAFIT
 
 HomePage
@@ -16,11 +16,12 @@ The Landing page for Novafit from where you an access all the features.
 •	Blog feed from our users describing their experience. 
 •	We have flip cards with the information regarding our trainers 
 •	In the bottom footer section we have our address and our contact Info along with links to our social media sites. Our working timings is also mentioned 
+# Classes
+Gives discription of all the classes which we provide
 
-
-SignIn Page
+# SignIn Page
 The sign in page has the option for the user to either sign in or login using username and password. 
-FAQ’s
+# FAQ’s
 The FAQ’s page has the answers to all the queries you might have related to nova fit. 
 Whether it be questions about us or technical queries you can find the solution to it here. 
 
